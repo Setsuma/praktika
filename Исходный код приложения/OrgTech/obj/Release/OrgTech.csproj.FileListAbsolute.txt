@@ -1,0 +1,15 @@
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\OrgTech.csproj.AssemblyReference.cache
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI.Client.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI.cr_r_f.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI_EKZ_TRBZD.EditRequestManagerForm.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI.E_r_f.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI.History.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI.Login_Form_Window.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI_EKZ_TRBZD.MasterForm.Add_repair_parts.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI_EKZ_TRBZD.MasterForm.Comments.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI_EKZ_TRBZD.Manager.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI_EKZ_TRBZD.MasterForm.Master.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI.E_r_f_op.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\GUI.OperatorForm.resources
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\OrgTech.csproj.GenerateResource.cache
+C:\Users\Savva\Desktop\Savva\Исходный код приложения\OrgTech\obj\Release\OrgTech.csproj.CoreCompileInputs.cache

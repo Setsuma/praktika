@@ -1,0 +1,47 @@
+E:\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe.config
+E:\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe
+E:\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.pdb
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Client.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.cr_r_f.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.E_r_f.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.GUI_DataBase.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.History.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Login_Form_Window.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Add_repair_parts.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Comments.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Master.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.E_r_f_op.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.OperatorForm.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI EKZ TRBZD.exe
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI EKZ TRBZD.pdb
+E:\Новая папка (2)\GUI UP 3\bin\Debug\MessagingToolkit.QRCode.dll
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.Up2Date
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.EditRequestManagerForm.resources
+E:\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.Manager.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe.config
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.exe
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\bin\Debug\GUI EKZ TRBZD.pdb
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Client.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.cr_r_f.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.EditRequestManagerForm.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.E_r_f.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.GUI_DataBase.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.History.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.Login_Form_Window.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Add_repair_parts.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Comments.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.Manager.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI_EKZ_TRBZD.MasterForm.Master.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.E_r_f_op.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.OperatorForm.resources
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI EKZ TRBZD.exe
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\obj\Debug\GUI EKZ TRBZD.pdb
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\bin\Debug\LoginHistoryLibrary.dll
+C:\Users\Savva\Desktop\Новая папка (2)\GUI UP 3\bin\Debug\LoginHistoryLibrary.pdb
